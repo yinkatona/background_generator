@@ -1,0 +1,19 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "Ramdomly generating background color for webpages",
+  "main": "script1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinkatona/background_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinkatona/background_generator/issues"
+  },
+  "homepage": "https://github.com/yinkatona/background_generator#readme"
+}
